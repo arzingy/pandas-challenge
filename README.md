@@ -1,4 +1,5 @@
 # Pandas Assignment
+All the DataFrames and Written Observable Trends and Summary can be also found in PyCitySchools_starter.ipynb file
 ## Complete Data
 <figure>
   <img
