@@ -66,3 +66,7 @@ depend on students grade. It does depend on the school, because students from di
 - As can be seen in [Scores By School Size](#scores-by-school-size), small (<1000) and medium (1000-2000) schools show similar results in scores and % passing, however, large (2000-5000) schools
 tend to show lower scores and % passing.
 - As can be seen in [Scores By School Type](#scores-by-school-type), charter schools show significantly better results in scores and % passing than district schools.
+
+## Summary
+As we can see, the greatest difference in scores is based on school size, type, and budget spending per student. This analysis gives us insights that highlight the potential
+influence of educational funding policies, smaller learning environments and different school governance models.
